@@ -1,0 +1,140 @@
+/* fonts link start */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* fonts link end */
+/* comon css start */
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.btn-c{
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    line-height: 19px;
+}
+.btn-c:hover{
+    background-color: #fd511a;
+    color: #fff;
+}
+.btn-c:active{
+    background-color: #fd511a !important;
+    color: #fff !important;
+}
+/* comon css end */
+/* header start */
+header{
+    background-color: #F0FFF0;
+}
+.cnav{}
+.logo{}
+.manu{}
+.manu ul li a{
+    padding: 0 25px !important;
+    color: #000 !important;
+    line-height: 24px !important;
+}
+.manu ul li a:hover{
+    color: #fd511a !important;
+}
+.btn-s{
+    width: 105px;
+    height: 45px;
+    margin-left: 10px;
+}
+.net-togol:focus{
+    box-shadow: none;
+}
+/* header end */
+/* banner section code start  */
+.banner-section{
+    background-color: #F0FFF0;
+    padding-bottom: 60px;
+}
+.banner-tex{}
+.banner-p1{
+    color: #fd511a;
+    line-height: 24px;
+}
+.bnner-h1{
+    margin: 10px 0 20px;
+    padding-right: 60px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    
+}
+.bnner-h1 span{
+    color: #21B573;
+}
+.banner-p2{
+    line-height: 36px;
+}
+.get-start{
+    margin-top: 15px;
+    width: 155px;
+    height: 45px;
+}
+
+.banner-img{}
+.banner-img img{}
+
+
+/* banner section code end  */
+/* future section code end */
+.future-section{
+    padding: 45px 0px 100px;
+}
+.future-box{
+    padding: 55px 0px 50px;
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    text-align: center;
+    transition: 2s;
+}
+.future-box:hover{
+    background-color: #fff;
+    box-shadow: 0px 20px 40px #cff8cf;
+}
+.future-box .future-img{
+    margin: 0 auto 22px;
+    width: 65px;
+    height: 85px;
+}
+.future-box .future-img img{}
+.fu-h2{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+}
+.fu-p{
+    line-height: 24px;
+}
+
+/* future section code end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
